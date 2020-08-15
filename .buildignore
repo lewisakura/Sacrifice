@@ -1,0 +1,5 @@
+.git
+.buildignore
+.gitignore
+build.ps1
+sacrifice.love
