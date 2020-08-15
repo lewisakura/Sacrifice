@@ -196,7 +196,7 @@ end
 
 function state:keyDown(k)
     if k == '.' then
-        if self.simSpeed == 5 then return end
+        if self.simSpeed == 10 then return end
         self.simSpeed = self.simSpeed + 0.25
     end
 
